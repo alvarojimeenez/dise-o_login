@@ -1,0 +1,117 @@
+body{
+    background-color:  #3D3B8E;
+}
+
+.login{
+    height: auto;
+    width: 430px;
+    background-color: #6883BA;
+    border-radius: 15px;
+    margin: 10px auto;
+    padding: 12px;
+    padding-right: 10px;
+    margin-top: 10%;
+    height: 570px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 240%;
+    color: white;
+    padding-top: 15px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 45px;
+    margin-left: 1px;
+    text-align: center;
+}
+
+input{
+    padding-top: 2px;
+    border-color: white;
+    margin-top: -10px;
+    border-radius: 5px;
+    padding-left: 2px;
+    height: 37px;
+    width: 385px;
+}
+
+a{
+    padding-top: 100px;
+    font-size: 15px;
+    color: black;
+}
+
+.registro{
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border-color: white;
+
+}
+
+.registrar{
+    height: auto;
+    width: 430px;
+    background-color: #6883BA;
+    border-radius: 15px;
+    margin: 10px auto;
+    padding: 12px;
+    padding-right: 10px;
+    margin-top: 10%;
+    height: 610px;
+}
+
+.boton{
+    padding-top: 15px;
+}
+
+.reg_usu{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border-color: white;
+    text-decoration: none;
+}
+
+.olvidarContrasenia{
+    height: auto;
+    width: 600px;
+    background-color: #6883BA;
+    border-radius: 15px;
+    margin: 10px auto;
+    padding: 12px;
+    padding-right: 10px;
+    margin-top: 10%;
+    height: 470px;
+}
+
+.contrasenia{
+    padding-top: 15px;
+}
+
+.botonContrasenia{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    height: 50px;
+    width: 230px;
+    border-radius: 10px;
+    border-color: white;
+}
+
+.volver{
+    padding-top: 25px;
+}
